@@ -1,83 +1,94 @@
-# DEVLOG — Leonida Platinum Atlas (gta6-trophy-guide-01)
+# DEVLOG — Leonida Platinum Atlas (gta6-trophy-guide-01, rebuild round)
 
-Entry built in this session, by hand, after the competition recording had started.
-Scoring ruler (from the kit's RULES.txt, judge criteria in order):
-1. Tracker & data — official names/descriptions/grades, saved progress, kind filters, spoiler setting, export/import.
-2. Roadmap & missables — built from the official descriptions, shown in the app.
-3. Cited guidance — every guide in our own words, sources named per trophy; uncited specifics earn nothing.
-4. Fast, clear, polished — small first load, readable layout, original look, no publisher artwork or logos.
+Rebuilt from scratch in a fresh recording after the first submission was
+rejected on two recording-technical grounds (an unrelated voice-session
+record swept into the first recording, and the final README not witnessed
+by that recording). Every file in this repo — including README.md and the
+byte-identical rewrite of the data file — was written in this session.
 
-Data provenance: the kit starter's app/data/trophies.json is the official list (Exophase +
-PSNProfiles, agreeing on every name, description and grade). Names, descriptions and grades in
-our data file were verified byte-for-byte against it by script: 55/55 names, 0 description or
-grade mismatches, grade split 1 platinum / 2 gold / 6 silver / 46 bronze as published.
-Guides are original text written for this entry; each cites Exophase + PSNProfiles and says
-plainly where a trigger is not pinned down by either source (Challenging Tank, Personal Best,
-Bad Luck I Guess, The Truth Is Out There). Missable flags are labelled "watch" with reasons —
-the official list labels nothing missable, so nothing here is claimed as proven missable.
+## Data sources
 
-## Round 1 — first build (self-score against the ruler)
-Built: tracker with kind/grade/status filters + search, spoiler protection, localStorage
-progress with counters and per-trophy notes, export/import, showcase seed (13/55), roadmap
-page (6 stages, per-stage progress), missables page (9 watch items with reasons), Next Up
-planner (watch first, then earliest stage, counters under way boosted), detail pane with
-guide + steps + sources + counter controls.
+- `app/data/trophies.json` is the kit's official trophy list: 55 trophies,
+  1 platinum / 2 gold / 6 silver / 46 bronze, 28 hidden. Names, descriptions
+  and grades are verbatim from the official list, on which the two sources
+  agree: Exophase (Grand Theft Auto VI PSN trophy list) and PSNProfiles
+  (Grand Theft Auto VI trophies). Each trophy in the file also carries an
+  original guide, a roadmap stage, steps and a per-trophy `sources` field;
+  every guide card in the app cites Exophase + PSNProfiles.
+- Verified in-session before writing any UI code: count = 55, grade split
+  = 1/2/6/46, every entry has name / description / grade / guide / stage /
+  sources, and the 9 `watch` entries are present. The file was then
+  rewritten byte-for-byte in this session (sha256 unchanged:
+  0fbee7814a9c65c296736238ff846325af815fede8977cee0c061789e08a57ff).
+- Honesty rules kept: the 4 trophies whose exact trigger neither source
+  pins down (Challenging Tank, Personal Best, Bad Luck, I Guess, The Truth
+  Is Out There) are badged "trigger 未定死 / not yet pinned down" and their
+  cards say so instead of inventing steps. The official list marks no
+  trophy as missable, so the 9 flagged items are presented as a watch list
+  with reasons and a safe order — never as confirmed missables.
 
-Self-score (vs house ladder as reference: starter = anchor 2, strong anchor 4 has checklist +
-guide pane + roadmap + spoiler + save page; rungs add search, missables page, counters,
-roadmap progress, notes, Next Up planner):
-- Criterion 1 (tracker & data): strong — all of anchor 4's parts plus search, counters, notes. 8/10
-- Criterion 2 (roadmap & missables): roadmap has stages + progress; missables are reasoned, not
-  just flagged. Weakness: missable reasoning is necessarily cautious ("watch"), a judge comparing
-  against a bolder entry might read it as thinner. 7/10
-- Criterion 3 (cited guidance): every guide cites both sources and distinguishes fact from
-  advice; four vague trophies honestly marked unpinned instead of inventing steps. 8/10
-- Criterion 4 (polish/speed): first load is index + 1 CSS + 4 small JS modules (~40 KB raw);
-  data file loads after. Weaknesses to fix in round 2: (a) screenshots not yet taken, so the
-  actual rendered look is unverified; (b) reset handler in main.js is convoluted; (c) the
-  cover view must show guide + sources + filters + progress in one frame — verify visually;
-  (d) check detail pane does not overflow 800px height with the longest guide.
+## Round 1 — build
 
-## Round 2 — polish (after screenshots and interaction tests)
-Screenshots taken with headless Chromium at 1280x800 from the app's own URL options, with a
-request log proving zero external requests. All four are 125–168 KiB (cap 256 KiB).
-Round 1 weaknesses found on inspection and fixed:
-- (a) Spoiler screenshot originally showed only earned story trophies (correctly revealed),
-  so the protection itself was invisible. Re-shot scrolled: earned story trophies readable,
-  unearned ones shown as "Hidden story trophy" (bronze and the gold finale) — the setting's
-  effect is now checkable at a glance.
-- (b) Reset handler rewritten to use store.js emptyProgress() instead of a convoluted
-  expression; main.ts gained a screenshot-count pre-check (3–4) next to its trophy-data
-  check, so hand-in failures speak plainly. main.ts and main.js both revised across
-  separate messages, per the revision rule.
-- (c) Cover verified visually: header progress (13 of 55, 24%), official list makeup,
-  search + kind chips + grade/status filters + spoiler toggle, checklist with official
-  names/descriptions/grades, and The Shootist detail with counter (28/42), guide naming
-  Exophase + PSNProfiles in the visible text, steps and a Sources box — all in one frame.
-- (d) Detail pane scrolls internally (sticky, max-height), longest guides do not overflow.
+Shell first (index + one CSS + small JS modules; the 75 KB data file is
+fetched after first paint): tracker list with type/grade/status filters,
+search and a spoiler shield (unearned story trophies render as "Hidden
+story trophy"); per-trophy guide cards (type, missable/watch flag, online
+flag, phase, unlock steps, guide, sources, per-trophy notes); localStorage
+tracking with counters that auto-light at target, export/import JSON and a
+13/55 showcase seed; six-phase roadmap with per-phase progress; missables
+watch page (9 items, safe order); Next Up planner (watch → earliest phase
+→ counter in progress, top 5). `main.ts` validates the 55-trophy data and
+the 3–4 screenshot count before copying and writing the dossier;
+`serve.ts` serves `app/` on 8080. Four 1280×800 screenshots taken with
+headless Chromium and inspected by eye.
 
-Verification evidence (round 2):
-- main.ts run twice into separate output dirs: trees byte-identical (diff -r clean);
-  dossier.json 899,816 bytes (< 1.5 MiB cap); Load Totals: first load 6 files, 13,516 bytes
-  gzip-9 (40,240 raw); whole app 7 files, 115,257 bytes.
-- Interaction test in Chromium: 55 rows render; earning a trophy persists across reload
-  (localStorage); counter buttons clamp at the target and auto-earn; planner queues 5 with
-  the watch item Catch Me If You Can first; search narrows to 1 row; Online filter shows
-  the honest "none on the official list" note; Export downloads the progress JSON.
-- Data re-verified after all edits: 55/55 names, descriptions, grades identical to the kit's
-  official list.
+Round 1 self-scores:
+- Tracking & data: 9/10 — 55/55 rows, seed 13/55, counters + persistence
+  wired; not yet proven by an automated browser pass.
+- Roadmap & missables: 9/10 — all six phases with live progress; watch
+  page honest and ordered.
+- Guide citations: 8/10 — per-card sources and unsettled badges present;
+  the unsettled wording could be louder on the card itself.
+- Speed & polish: 7/10 — weakest. In the spoiler screenshot the visible
+  list rows were all earned, so the masking only showed in Next Up, not
+  "at a glance" in the list; a Next Up grade badge wrapped awkwardly under
+  long names; the detail counter bar used a span as a block bar.
 
-Final self-score:
-- Criterion 1 (tracker & data): 9/10 — complete list with verbatim official data, saved
-  progress, counters, notes, export/import, all required filters, working spoiler rule.
-- Criterion 2 (roadmap & missables): 8/10 — six-stage roadmap with per-stage progress and
-  reasoning tied to chapters/missions/counts; 9 watch items each with its reason and safe
-  order, honestly labelled as watch rather than proven missable.
-- Criterion 3 (cited guidance): 9/10 — every guide cites Exophase + PSNProfiles beside the
-  trophy, separates official fact from our advice, and marks four unpinned triggers as
-  unpinned instead of inventing specifics.
-- Criterion 4 (polish/speed): 8/10 — 13.5 KB gzip first load, one coherent night-coast
-  look of our own, no publisher art or logos, screenshots show several systems per frame.
-Overall: at or above the house's strong anchor on every criterion the judge ranks, with the
-ladder-rung features (search, missables page, counters, roadmap progress, notes, Next Up
-planner) all present and working. Status: awaiting main-session review.
+## Round 2 — fix the weakest (speed & polish, plus spoiler legibility)
+
+- Added deep-linkable filter presets (`?status=`, `?kind=`, `?grade=`).
+  The spoiler screenshot now uses `?spoiler=1&status=remaining`: the list
+  shows a "Hidden story trophy" row directly beside readable non-story
+  rows, while the detail card shows an earned story trophy in full —
+  the shield's effect is visible in one frame.
+- Next Up items no longer carry the wrapping badge; grade is inline text.
+- Counter progress bar markup fixed to a proper block bar.
+- Re-shot all four screenshots from the final code and re-inspected each
+  by eye (tracker+detail in one frame; roadmap phases with progress;
+  watch cards with safe order; spoiler frame as above). All four are
+  1280×800 JPEGs under 256 KiB (171–201 KiB).
+
+Round 2 self-scores:
+- Tracking & data: 9/10 — now backed by the automated browser pass below.
+- Roadmap & missables: 9/10 — unchanged, verified in screenshots 2–3.
+- Guide citations: 9/10 — unsettled cards carry the boxed "not yet pinned
+  down" notice plus the list badge; sources on every card.
+- Speed & polish: 8/10 — spoiler frame fixed, Next Up clean, first load
+  is index + 1 CSS + 4 small JS modules with data deferred.
+
+## Acceptance (run on the final build)
+
+- Browser pass (headless Chromium, fresh profile): 55 rows rendered;
+  seed state 13/55; Next Up returns exactly 5; search "rhino" narrows to
+  exactly 1 (Challenging Tank); toggling the platinum updates 13/55 →
+  14/55 and persists across reload; setting the Cunning Stunts counter
+  to 250/250 auto-lights it (15/55); export click succeeds; zero external
+  requests observed (all traffic localhost).
+- `node main.ts` run twice into separate output dirs: dossier.json is
+  1,106,589 bytes in both runs, byte-identical (sha256
+  96367e96453c845605420f1215c78dca0ff99adaa788dc9d57f8a8acfbe6a563),
+  under the 1.5 MiB cap; the copied app/ and screenshots/ trees match the
+  repo trees exactly. Verification output dirs were removed afterwards.
+
+Status: 待主会话复验 (awaiting main-session review). Not submitted, not
+pushed, not published.
