@@ -1,0 +1,448 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "Official 55 trophies as PlayStation publishes them (1 platinum, 2 gold, 6 silver, 46 bronze, 28 hidden). Names, descriptions and grades are shown verbatim from the official list; every guide below is original text written for this atlas and cites its sources per trophy.",
+ "sourcesNote": "Official list sources: Exophase, Grand Theft Auto VI (PSN) trophy list, and PSNProfiles, Grand Theft Auto VI trophy page — the two agree on every name, description and grade, and PSNProfiles carries the progress target PlayStation tracks where a trophy has one. Guide advice is our own, written from the official descriptions; where a description does not pin down a place or a trigger, the guide says so instead of inventing one.",
+ "trophies": [
+  {
+   "id": 1, "name": "Vice Got a Price!", "description": "Congratulations! You're a Leonida Legend.", "grade": "platinum",
+   "kind": "platinum", "kinds": ["platinum"], "stage": 6, "target": 54, "targetLabel": "other trophies",
+   "missable": false, "watch": "",
+   "guide": "The platinum itself: it unlocks the moment the other 54 trophies are all earned, so there is nothing separate to hunt. Work the roadmap in order — story first, strangers before the finale, then the long counters — and use the tracker percentage as your checklist. If this is the only trophy left greyed out, one of the 54 is still unearned; filter by Remaining to find it. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Earn the other 54 trophies", "Follow the six roadmap stages in order", "Use Remaining filter to find any stragglers"]
+  },
+  {
+   "id": 2, "name": "Just Like Paradise", "description": "Complete Gone Fishing.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for finishing Gone Fishing, the opening mission named in the official description, so it cannot be skipped on a normal playthrough. Treat it as your tutorial lap: learn driving, shooting and the partner switch here, because later trophies (Gunslinger, Hot Together) build on exactly those systems. No preparation is needed and nothing before it can be missed. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Start the story", "Complete the Gone Fishing mission", "Use it to learn the core controls"]
+  },
+  {
+   "id": 3, "name": "Paradise Lost", "description": "Complete Chapter 1.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing Chapter 1, per the official description. Chapters are the spine of the roadmap: finish each chapter's missions in order and let the chapter trophies fall out naturally. While you are in Chapter 1, start any stranger strands that open up rather than leaving them all for later — the stranger finals (Road to Rehabilitation and its siblings) are far less stressful when their early missions are already done. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Play the Chapter 1 missions in order", "Open any stranger strands that appear", "Finish the chapter to unlock it"]
+  },
+  {
+   "id": 4, "name": "T**s Ass Drug Money", "description": "Complete Chapter 2.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing Chapter 2 — the name is shown exactly as PlayStation publishes it, asterisks included. Keep pushing the main missions; by this point the map and activity types are opening up, so it is a good moment to try each activity type once for Master of None rather than backtracking for it at 100 percent. Keep a manual save at the chapter break in case a choice-based trophy (Actions Speak Louder) needs a second look. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade, asterisks as published. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Play the Chapter 2 missions in order", "Try new activity types as they unlock", "Keep a save at the chapter break"]
+  },
+  {
+   "id": 5, "name": "Vice City, Baby!", "description": "Complete Chapter 3.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing Chapter 3, per the official description. Mid-story is the right time to start the slow counters in the background — stunts (250 for Cunning Stunts), vehicle discoveries (100 for Whip It Good) and exploration areas (52 for The Goodtime State) all grow fastest while you are still travelling for missions instead of grinding them at the end. Tick the counter in this tracker each session so the endgame cleanup stays short. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Play the Chapter 3 missions in order", "Start stunt, vehicle and area counters in passing", "Log counter progress in the tracker"]
+  },
+  {
+   "id": 6, "name": "Top Of The World, Ma", "description": "Complete Chapter 4.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing Chapter 4, per the official description. With four chapters down, pause before the endgame and sweep up open stranger strands: five trophies in this list are 'complete the final mission for' a named character (Andy, Kenton, Billy, Randy, Tyrone), and finishing their strands before the story finale is the safest order the official descriptions support. The Missables page in this atlas lists them all in one place. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Play the Chapter 4 missions in order", "Sweep open stranger strands before the finale", "Check the Missables page for the named-character finals"]
+  },
+  {
+   "id": 7, "name": "You Gotta Know When to Get Off", "description": "Complete the final mission.", "grade": "gold",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Gold story trophy for completing the final mission, per the official description — one of only two golds on the list. Before you start it, make a separate manual save: the description ties this to the story's end, and a pre-finale save is your insurance for any choice or one-off moment you want to revisit (Actions Speak Louder, Bad Luck, I Guess). Afterwards, confirm free roam continues before planning the 100 percent cleanup around it; if it does, A Long Road is a cleanup trophy, not a race. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Make a manual save before the final mission", "Complete the final mission", "Confirm free roam for the cleanup afterwards"]
+  },
+  {
+   "id": 8, "name": "Trust", "description": "Complete Breakfast Run.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing the named mission Breakfast Run, per the official description. Named-mission trophies like this one are unmissable if you follow the story, but they are useful pace markers: when Breakfast Run appears, you are still early, so bank cash and vehicles rather than spending heavily — Treat Yo Self wants $100,000 spent across shops later, when your income is higher. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Reach the Breakfast Run mission in the story", "Complete it", "Save cash early for later spending trophies"]
+  },
+  {
+   "id": 9, "name": "Break the Bank", "description": "Complete The Cartel Heist.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing The Cartel Heist, per the official description. A scripted heist is also your rehearsal for the free-roam robbery trophies — Maximum Withdrawal (5 bank vaults), A Classic Blitz Play (armored truck) and Sneakthief (undetected jewelry store) all reward the same skills: a planned exit route and a clean getaway vehicle. Note what the heist teaches about wanted levels; Hot Together later asks you to lose a 4-star level with your partner. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Reach The Cartel Heist in the story", "Complete it and study the getaway structure", "Reuse the escape lessons for robbery trophies"]
+  },
+  {
+   "id": 10, "name": "Family Matters", "description": "Complete Child's Play.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing the named mission Child's Play, per the official description. Play it as it appears in the story sequence; there is no separate setup the description points to. If a mission ever offers a choice, remember Actions Speak Louder tracks choices made across the whole game (PlayStation tracks a count of 500), so choices in missions like this are part of that long count, not throwaway moments. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the choice count), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Reach Child's Play in the story", "Complete it", "Make choices deliberately — they feed a tracked count"]
+  },
+  {
+   "id": 11, "name": "DWNFALL", "description": "Complete Headliners.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing the named mission Headliners, per the official description. Like the other named-mission trophies it arrives through normal story progress. Use the travel around these missions productively: new areas you enter count toward the 52 areas of The Goodtime State, and unfamiliar vehicles you drive count toward the 100 discoveries of Whip It Good, so vary your rides instead of always taking the same car. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Reach Headliners in the story", "Complete it", "Vary vehicles and routes to grow two counters"]
+  },
+  {
+   "id": 12, "name": "Hi-Jacked", "description": "Complete VCIA Takedown.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing VCIA Takedown, per the official description. VCIA matters twice on this list: Catch Me If You Can asks for 'an unscheduled departure at VCIA', so while this mission puts you at VCIA, look for that opportunity before you leave the area for good — it is the one story-adjacent moment this atlas flags on the Missables page. Keep a save from just before the mission so you can retry the departure without replaying a chapter. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Save before VCIA Takedown", "Complete the mission", "Watch for the unscheduled-departure opportunity at VCIA"]
+  },
+  {
+   "id": 13, "name": "Snow Storm", "description": "Complete Operation Savage Glory.", "grade": "bronze",
+   "kind": "story", "kinds": ["story"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Story trophy for completing the named mission Operation Savage Glory, per the official description. Big set-piece missions are the natural place to practise Combat Focus: Gunslinger asks for 5 enemies taken down in a single use of it, and a crowded story firefight is a kinder classroom than free roam. If the opportunity lines up during this mission, take the shot at Gunslinger here rather than forcing it later. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Reach Operation Savage Glory in the story", "Complete it", "Practise Combat Focus multi-takedowns in its firefights"]
+  },
+  {
+   "id": 14, "name": "A Long Road", "description": "Attain 100% Completion.", "grade": "gold",
+   "kind": "activities", "kinds": ["activities", "collectibles"], "stage": 6, "target": 100, "targetLabel": "% completion",
+   "missable": false, "watch": "",
+   "guide": "Gold trophy for attaining 100% completion, per the official description — the other gold, and the natural finish line of the whole roadmap. Do not chase the percentage directly; chase its ingredients: story, stranger strands, collectibles and activity counts are exactly the other 53 trophies, so a player who works the stages in order arrives here with only stragglers left. Use the in-game completion counter (tracked in this atlas) and the Remaining filter together to find what the last few percent are hiding. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Finish story and stranger strands", "Complete collectible and activity counts", "Sweep the last percent with the Remaining filter"]
+  },
+  {
+   "id": 15, "name": "Cunning Stunts", "description": "Complete 250 Stunts.", "grade": "silver",
+   "kind": "activities", "kinds": ["activities"], "stage": 4, "target": 250, "targetLabel": "stunts",
+   "missable": false, "watch": "",
+   "guide": "Silver activity trophy: complete 250 stunts, per the official description — the biggest single counter on the list. The winning habit is distribution, not a final grind: take stunt jumps and stunt opportunities whenever a mission route passes one, and log the running total in this tracker's counter so you always know the real number. Save the dedicated stunt sessions for the last stretch, and vary vehicle types, since a stunt that fails in a heavy car often lands in a lighter one. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 250 target PlayStation tracks), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 250. Advice: our own, from the official description.",
+   "steps": ["Take stunts whenever a route passes one", "Log the count after every session", "Grind only the final stretch deliberately"]
+  },
+  {
+   "id": 16, "name": "Master of None", "description": "Try each type of activity once.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 4, "target": 9, "targetLabel": "activity types",
+   "missable": false, "watch": "",
+   "guide": "Try each type of activity once — the official description's own wording, and the starter list notes 9 activity types. This is an invitation to sample early: the first time each activity type unlocks (racing, fishing, arcade, shooting range and the rest), play one round immediately instead of deferring it. Sampling early also teaches you which activities you enjoy, which matters because several of them have their own deep trophies — 42 Shooting Range challenges, 14 drone-race locations, 20 races. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Play one round of each activity type as it unlocks", "Count 9 distinct types", "Note which ones carry their own trophies"]
+  },
+  {
+   "id": 17, "name": "The Shootist", "description": "Earn a gold medal in all Shooting Range challenges.", "grade": "silver",
+   "kind": "activities", "kinds": ["activities"], "stage": 4, "target": 42, "targetLabel": "range challenges at gold",
+   "missable": false, "watch": "",
+   "guide": "Silver activity trophy: earn a gold medal in all Shooting Range challenges — 42 of them, the count PlayStation tracks. Work range by range and weapon by weapon, and do not leave a range with a silver you 'will fix later'; the tracker counter here counts golds only, so it always shows the true remaining work. If one challenge resists, change approach before repeating blindly: the medal is a score target, so accuracy streaks usually beat raw speed. This trophy is open in the cover screenshot of this atlas as a worked example. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 42 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 42. Advice: our own, from the official description.",
+   "steps": ["Clear each range's challenges methodically", "Count gold medals only in the tracker", "Adjust accuracy vs speed per challenge"]
+  },
+  {
+   "id": 18, "name": "Top Fun", "description": "Win a Top Fun Drone Race at every location.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 4, "target": 14, "targetLabel": "drone race locations won",
+   "missable": false, "watch": "",
+   "guide": "Win a Top Fun drone race at every location — 14 locations, per the official description and the tracked count. Treat each new location as a two-pass job: one learning run to memorise the gate order, then the serious attempt while the course is fresh. Winning once at a location is enough; you do not need to defend it. Log each won location in the counter immediately, because 'every location' trophies are the ones players most often miscount from memory. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 14 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 14. Advice: our own, from the official description.",
+   "steps": ["Run each course once to learn the gates", "Win it on the follow-up attempt", "Log every won location in the counter"]
+  },
+  {
+   "id": 19, "name": "Earn Cash, Not Kudos", "description": "Win 20 different races.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 4, "target": 20, "targetLabel": "different races won",
+   "missable": false, "watch": "",
+   "guide": "Win 20 different races, per the official description — 'different' is the operative word, so winning the same easy race 20 times does not finish this. Spread attempts across the race calendar as new races unlock with the map, bring a vehicle suited to each class rather than a favourite for everything, and log each distinct win in the counter. Drone races for Top Fun are their own list; do not assume they count here unless the game says so. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 20 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 20. Advice: our own, from the official description.",
+   "steps": ["Enter new races as they unlock", "Win each distinct race once", "Log distinct wins, not repeats"]
+  },
+  {
+   "id": 20, "name": "Baited My Tackle", "description": "Beat Cal in a fishing challenge.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 4, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Beat Cal in a fishing challenge, per the official description. Fishing challenges are a repeatable activity, so this is about winning once, not about a one-time story moment: if Cal wins a round, re-enter rather than reloading. Practise the fishing loop first in a free session (part of Master of None's sampling), then challenge Cal when the mechanics are comfortable. The official description names no lake or spot, and this guide invents none — use whichever fishing challenge the game offers against Cal. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Practise fishing in a free session", "Enter Cal's fishing challenge", "Retry until you beat him once"]
+  },
+  {
+   "id": 21, "name": "Stick Fiddler", "description": "Complete an arcade game.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 4, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Complete an arcade game, per the official description — singular, so one finished arcade game is the whole job. Pick the shortest or most forgiving cabinet you find, finish it once, and move on; this is one of the cheapest bronzes on the list and a good 'first trophy of the session' while other counters warm up. It also counts toward trying each activity type for Master of None. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Find any arcade game", "Play it to completion once", "Move on — one completion is enough"]
+  },
+  {
+   "id": 22, "name": "Road to Rehabilitation", "description": "Complete the final mission for Andy.", "grade": "bronze",
+   "kind": "story", "kinds": ["story", "missable"], "stage": 2, "target": null, "targetLabel": "",
+   "missable": true, "watch": "Watch: it is the final mission of a named character's strand. The official description does not say the strand closes, but the safe order — and the one this roadmap uses — is to finish Andy's strand before the story finale rather than gamble that every strand stays open afterwards.",
+   "guide": "Complete the final mission for Andy, per the official description. Named-character strands work as chains: Andy's final mission only appears after his earlier ones, so start the strand when it first opens and never leave a started strand half-done across a chapter break. This atlas flags it Watch on the Missables page: not proven missable, but a strand finale is exactly the kind of content a story finale can close off, so finish it before You Gotta Know When to Get Off. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Start Andy's strand when it opens", "Complete each of his missions in chain order", "Finish his final mission before the story finale"]
+  },
+  {
+   "id": 23, "name": "This Was No Boat Accident", "description": "Complete the final mission for Kenton.", "grade": "bronze",
+   "kind": "story", "kinds": ["story", "missable"], "stage": 2, "target": null, "targetLabel": "",
+   "missable": true, "watch": "Watch: a named character's final strand mission. Finish Kenton's strand before the story finale — the order this roadmap recommends for every named-character finale, because the official descriptions give no promise that strands survive the ending.",
+   "guide": "Complete the final mission for Kenton, per the official description. The method mirrors every named-character trophy on this list: pick up Kenton's strand early, work it in chain order, and close it before the story finale. If several strands are open at once, finish one whole strand before starting another — half-finished strands are how these trophies get forgotten until the cleanup, when they cost the most travel. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Start Kenton's strand when it opens", "Work his missions in chain order", "Finish his final mission before the story finale"]
+  },
+  {
+   "id": 24, "name": "The Lone Rider", "description": "Complete the final mission for Billy.", "grade": "bronze",
+   "kind": "story", "kinds": ["story", "missable"], "stage": 2, "target": null, "targetLabel": "",
+   "missable": true, "watch": "Watch: a named character's final strand mission. Close Billy's strand before the story finale, in line with the other four named-character finals on the Missables page.",
+   "guide": "Complete the final mission for Billy, per the official description. Billy's finale is one of five 'final mission for' trophies, and Strangers & Freaks separately wants 8 stranger strands completed — Billy's strand counts toward both efforts, so it is doubly worth finishing rather than leaving open. Order of work: open the strand when it appears, finish it before the story finale, and tick the strand off in your notes field here so the 8-strand count stays honest. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Start Billy's strand when it opens", "Complete his missions in chain order", "Note the finished strand toward the 8-strand trophy"]
+  },
+  {
+   "id": 25, "name": "Strangers & Freaks", "description": "Complete 8 mission strands for strangers across the state of Leonida.", "grade": "silver",
+   "kind": "collectibles", "kinds": ["story", "collectibles"], "stage": 2, "target": 8, "targetLabel": "stranger strands completed",
+   "missable": false, "watch": "",
+   "guide": "Silver trophy: complete 8 mission strands for strangers across Leonida, per the official description. The five named-character finales (Andy, Kenton, Billy, Randy, Tyrone) are strands you are finishing anyway, so this trophy is mostly bookkeeping: complete whole strands rather than sampling first missions, and keep the counter here synced with strands actually finished, not started. Any three further strands beyond the named five complete the set — choose the ones nearest your usual routes to save travel. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 8 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 8. Advice: our own, from the official description.",
+   "steps": ["Finish the five named-character strands", "Complete three more stranger strands", "Count finished strands only"]
+  },
+  {
+   "id": 26, "name": "Supply & Demand", "description": "Complete the final mission for Randy.", "grade": "bronze",
+   "kind": "story", "kinds": ["story", "missable"], "stage": 2, "target": null, "targetLabel": "",
+   "missable": true, "watch": "Watch: a named character's final strand mission. Finish Randy's strand before the story finale, the standing order for all five named-character finals in this atlas.",
+   "guide": "Complete the final mission for Randy, per the official description. Same discipline as the other named-character trophies: start the strand when it opens, follow the chain without long gaps, and close it before the finale. Strands also feed the 8-strand count for Strangers & Freaks, so record each finished strand in that trophy's counter the moment Randy's finale lands. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Start Randy's strand when it opens", "Complete his missions in chain order", "Finish before the finale and log the strand"]
+  },
+  {
+   "id": 27, "name": "Spin On This!", "description": "Complete the final mission for Tyrone.", "grade": "bronze",
+   "kind": "story", "kinds": ["story", "missable"], "stage": 2, "target": null, "targetLabel": "",
+   "missable": true, "watch": "Watch: a named character's final strand mission. Close Tyrone's strand before the story finale, alongside the other named-character finals flagged on the Missables page.",
+   "guide": "Complete the final mission for Tyrone, per the official description. Tyrone's finale completes the set of five named-character trophies; when this one lands, the named-strand portion of the roadmap is done and only three more strands are needed for Strangers & Freaks. Keep the same order — strand opened early, chain finished, finale before the story's end — and the trophy takes care of itself. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Start Tyrone's strand when it opens", "Complete his missions in chain order", "Finish his final mission before the story finale"]
+  },
+  {
+   "id": 28, "name": "Positive Mental Attitude", "description": "Meditate at every spot across Leonida.", "grade": "bronze",
+   "kind": "collectibles", "kinds": ["collectibles"], "stage": 3, "target": 18, "targetLabel": "meditation spots",
+   "missable": false, "watch": "",
+   "guide": "Meditate at every spot across Leonida — 18 spots, the count the list tracks. This is a pure collectible sweep: the efficient pattern is to meditate at any spot you pass during story and exploration, then run one dedicated route for the leftovers once the map is open. Pair it with The Goodtime State (52 areas): both reward the same state-wide travel, so plan one combined exploration pass in roadmap stage 3 rather than two separate tours. The official description names no individual spots, and this guide invents none. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 18 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 18. Advice: our own, from the official description.",
+   "steps": ["Meditate at spots you pass while exploring", "Log each spot in the counter", "Sweep leftovers on one combined exploration route"]
+  },
+  {
+   "id": 29, "name": "Fair Game", "description": "Hunt a unique animal for Bret.", "grade": "bronze",
+   "kind": "story", "kinds": ["story", "missable"], "stage": 2, "target": null, "targetLabel": "",
+   "missable": true, "watch": "Watch: a job for a named character, Bret. Accept and finish Bret's hunt before the story finale, with the other named-character work in roadmap stage 2.",
+   "guide": "Hunt a unique animal for Bret, per the official description. 'Unique' is the key word: this is a specific quarry tied to Bret's request, not generic hunting, so the job begins by taking Bret's task and following its trail rather than roaming for random wildlife. Do it while Bret's strand is current — this atlas groups it with the named-character work in stage 2 and flags it Watch for the same reason: character jobs belong before the finale. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Take Bret's hunting request", "Track the unique animal it names", "Complete the hunt before the story finale"]
+  },
+  {
+   "id": 30, "name": "Don't Touch My Deck", "description": "Complete 3 Collectible Card sets.", "grade": "silver",
+   "kind": "collectibles", "kinds": ["collectibles"], "stage": 3, "target": 3, "targetLabel": "card sets completed",
+   "missable": false, "watch": "",
+   "guide": "Silver collectible trophy: complete 3 collectible card sets, per the official description. Sets, not loose cards — so organise the hunt by set from the start: finish one set completely before scattering attention across the others, and use the notes field here to record which set you are closing and what it still needs. Cards found while exploring for The Goodtime State and Positive Mental Attitude are free progress; a final dedicated sweep for the last cards of the third set is normal. The official description does not list card locations, and this guide invents none. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 3-set target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 3 sets. Advice: our own, from the official description.",
+   "steps": ["Collect cards while exploring", "Complete one set at a time", "Sweep the last cards of the third set"]
+  },
+  {
+   "id": 31, "name": "You WAiNKer!", "description": "WAiNK It at 100 locations.", "grade": "silver",
+   "kind": "collectibles", "kinds": ["collectibles", "activities"], "stage": 3, "target": 100, "targetLabel": "WAiNK locations",
+   "missable": false, "watch": "",
+   "guide": "Silver trophy: WAiNK It at 100 locations, per the official description, name shown exactly as PlayStation publishes it. One hundred locations is a tour of the whole state, so treat it like the other exploration counters: do it whenever you are already somewhere new, log the count honestly in the tracker, and combine the late sweep with meditation spots and area discovery, which follow the same map-wide logic. The official description does not enumerate the locations, and this guide invents none — the counter and your own notes are the reliable record. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 100 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 100. Advice: our own, from the official description.",
+   "steps": ["WAiNK at every new location you visit", "Log the running count in the tracker", "Combine the final sweep with other exploration"]
+  },
+  {
+   "id": 32, "name": "One Last Thing", "description": "Complete 50 Challenges.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 4, "target": 50, "targetLabel": "challenges completed",
+   "missable": false, "watch": "",
+   "guide": "Complete 50 challenges, per the official description. Challenges accumulate across activities, so the fastest route is breadth: sample every activity type (which Master of None already asks for), finish the short challenges first, and let the count build while you work on races, ranges and stunts. Keep the tracker counter current — at 50, off-by-a-few bookkeeping is the difference between a finished trophy and an annoying extra session. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 50 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 50. Advice: our own, from the official description.",
+   "steps": ["Sample all activity types", "Finish short challenges first", "Keep the 50-count synced in the tracker"]
+  },
+  {
+   "id": 33, "name": "Hot Together", "description": "Lose a 4 star Wanted Level with your partner and escape the heat.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Lose a 4-star wanted level with your partner and escape, per the official description. Deliberately stage it rather than hoping it happens: commit something that raises four stars while your partner is with you, then break line of sight and keep moving through cover until the stars drain — swapping vehicles and avoiding main roads both help in the series' long-standing wanted system, but the requirement here is only what the description states. Pick a spot near garages and alleys, and save first so a failed escape costs nothing. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Save, then raise a 4-star wanted level with your partner present", "Break line of sight and keep moving", "Stay hidden until the wanted level is lost"]
+  },
+  {
+   "id": 34, "name": "Retail Therapy", "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": 3, "targetLabel": "shops robbed back-to-back",
+   "missable": false, "watch": "",
+   "guide": "Rob 3 shops back-to-back with your partner without losing your wanted level, per the official description — the mirror image of Hot Together: there you shed the heat, here you must keep it. Plan a tight triangle of three shops close together, rob them in one continuous run with your partner, and do not hide long enough for the wanted level to drop between shops. Rehearse the route once without robbing, so the real run is navigation, not improvisation. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Pick three shops close together", "Scout the route once", "Rob all three in one run, keeping the wanted level"]
+  },
+  {
+   "id": 35, "name": "Whip It Good", "description": "Discover 100 vehicles.", "grade": "bronze",
+   "kind": "collectibles", "kinds": ["collectibles"], "stage": 3, "target": 100, "targetLabel": "vehicles discovered",
+   "missable": false, "watch": "",
+   "guide": "Discover 100 vehicles, per the official description. Discovery counters reward curiosity: get into vehicles you have not driven before whenever you see one parked or passing, especially in new districts, where unfamiliar models cluster. It pairs naturally with On the Spot (register 10 vehicles to the Scooter Bros app) and with story travel — varied rides across a whole playthrough reach 100 with little dedicated effort, while leaving it to the end turns it into a parking-lot marathon. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 100 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 100. Advice: our own, from the official description.",
+   "steps": ["Enter unfamiliar vehicles as you meet them", "Hunt new models in new districts", "Log discoveries in the counter"]
+  },
+  {
+   "id": 36, "name": "Gunslinger", "description": "Take down 5 enemies in a single use of Combat Focus.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": 5, "targetLabel": "enemies in one Combat Focus",
+   "missable": false, "watch": "",
+   "guide": "Take down 5 enemies in a single use of Combat Focus, per the official description. The setup matters more than aim: you need five enemies alive and in range before you trigger it, so crowded story firefights (Operation Savage Glory is a good classroom) or a deliberately stirred-up group work better than picking off stragglers. Enter the fight with Combat Focus fully available, position before activating, and prioritise the nearest targets first. If a run ends at four, reposition and retry — this is a repeatable combat feat, not a one-time moment. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Find a group of at least five enemies", "Position, then activate Combat Focus", "Take down five before it ends"]
+  },
+  {
+   "id": 37, "name": "Catch Me If You Can", "description": "Make an unscheduled departure at VCIA.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities", "missable"], "stage": 1, "target": null, "targetLabel": "",
+   "missable": true, "watch": "Watch — the clearest missable-shaped trophy on the list: it is tied to one named place, VCIA, and to a departure the schedule does not plan. The moment the story takes you to VCIA (VCIA Takedown) is the opportunity this atlas plans around; keep a save before it.",
+   "guide": "Make an unscheduled departure at VCIA, per the official description. Read plainly, you need to leave VCIA by an unplanned means — taking off or driving out in a way the airport did not schedule — rather than exiting normally. The planned moment is the story's own VCIA visit, VCIA Takedown (Hi-Jacked): save before that mission, and while you are on VCIA ground, look for a vehicle or aircraft you can simply take. If free-roam access to VCIA exists later, the same approach applies; the official description names the place and the act, and this guide adds no invented terminal or gate number. It is flagged first on the Missables page because place-and-moment trophies are the easiest to walk past. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Save before the story takes you to VCIA", "While at VCIA, take an unplanned departure", "Retry from the save if the visit ends first"]
+  },
+  {
+   "id": 38, "name": "Challenging Tank", "description": "Kinda hot in these Rhinos.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Honesty first: this is one of the list's deliberately cryptic descriptions — 'Kinda hot in these Rhinos' — and neither official source pins down the exact trigger beyond Rhinos, the series' tanks. The description-supported reading is that it involves spending time in, or surviving heat inside, a Rhino tank. Practical approach: when a Rhino becomes available to you, get in and stay in it through a wanted escalation rather than hopping out, and note what happens in your tracker notes. This atlas marks the precise trigger as not yet pinned down by its sources rather than inventing steps — if you discover the exact condition, your exported notes keep it with your save data. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the interpretation is our own, from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Interpretation: our own, from the official description; exact trigger not pinned down by either source.",
+   "steps": ["Find and enter a Rhino tank when one is available", "Stay in it through a wanted escalation", "Record the trigger in your notes when it lands"]
+  },
+  {
+   "id": 39, "name": "Sneakthief", "description": "Rob a jewelry store without being detected.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Rob a jewelry store without being detected, per the official description. Stealth is the whole requirement: plan entry and exit before you start, move quietly, and treat detection — not the police response afterwards — as the failure state, restarting the attempt if you are spotted mid-robbery. Practise the route once as a customer if the game allows it. This pairs with the other robbery trophies (Maximum Withdrawal, A Classic Blitz Play, Pest Control) but has the opposite temperament: patience here, speed there. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Scout a jewelry store's entry and exit", "Rob it quietly without being detected", "Restart the attempt if you are spotted"]
+  },
+  {
+   "id": 40, "name": "Maximum Withdrawal", "description": "Rob 5 Bank Vaults and escape.", "grade": "silver",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": 5, "targetLabel": "bank vaults robbed and escaped",
+   "missable": false, "watch": "",
+   "guide": "Silver robbery trophy: rob 5 bank vaults and escape, per the official description — both halves count, a robbery you are caught in does not. Build a repeatable loop: choose a vault, stage a getaway vehicle facing the exit route, rob, and drive to a quiet area to shed the heat, reusing the escape craft The Cartel Heist teaches. Log each clean vault in the counter; five separate successful escapes, not five attempts, finish it. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 5 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 5. Advice: our own, from the official description.",
+   "steps": ["Stage a getaway vehicle at each bank", "Rob the vault", "Escape fully before logging the count"]
+  },
+  {
+   "id": 41, "name": "A Classic Blitz Play", "description": "Rob an Armored Truck and escape.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Rob an armored truck and escape, per the official description — the title nods to the series' classic blitz play, but the requirement is just the one truck and a clean getaway. Armored trucks are tougher than shop robberies, so prepare like a small heist: block or stop the truck somewhere with an exit route, take the money fast, and leave in a different vehicle than the one you arrived in if the heat is high. One successful truck finishes it; combine the attempt with a session of Maximum Withdrawal vaults to share the warmup. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Find an armored truck and pick a stop point with an exit", "Rob it quickly", "Escape and lose the heat"]
+  },
+  {
+   "id": 42, "name": "The Goodtime State", "description": "Explore all of Leonida.", "grade": "bronze",
+   "kind": "collectibles", "kinds": ["collectibles"], "stage": 3, "target": 52, "targetLabel": "areas of Leonida explored",
+   "missable": false, "watch": "",
+   "guide": "Explore all of Leonida — 52 areas, per the official description and the tracked count. Area discovery is the backbone of roadmap stage 3: one systematic state-wide pass, district by district, also feeds meditation spots (18), WAiNK locations (100) and vehicle discoveries (100), so never make four separate tours. Enter every distinct area rather than driving its border, and log areas in the counter as the game confirms them. The last few percent of A Long Road usually hide in the areas this trophy sends you to. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 52 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 52. Advice: our own, from the official description.",
+   "steps": ["Tour Leonida district by district", "Enter each area, not just its border", "Combine with spots, locations and vehicle hunting"]
+  },
+  {
+   "id": 43, "name": "Pest Control", "description": "Rob an Illegal Operation belonging to each gang.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": 9, "targetLabel": "gangs whose operation you robbed",
+   "missable": false, "watch": "",
+   "guide": "Rob an illegal operation belonging to each gang — 9 gangs, per the official description and the tracked count. The discipline is coverage, not volume: robbing the same gang's operations repeatedly does not advance this, so keep a per-gang note in the notes field here and deliberately target gangs you have not hit. Treat each operation like a small robbery with an exit planned first, in the pattern of Maximum Withdrawal. The official description does not name the gangs or their locations, and this guide invents none — your notes are the map. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 9 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 9. Advice: our own, from the official description.",
+   "steps": ["Rob one operation per gang", "Note each gang covered in your notes", "Target uncovered gangs until all 9 are done"]
+  },
+  {
+   "id": 44, "name": "In The Beginning…", "description": "Enjoy a cocktail with a view on Ocean Beach.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 3, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Enjoy a cocktail with a view on Ocean Beach — the official description names the place, Ocean Beach, and the act, so this is a location trophy, not a puzzle. Head to Ocean Beach, find where drinks are served with the view the description promises, and have the cocktail. It is a gentle early stop on the exploration pass: Ocean Beach is a natural first district for The Goodtime State, and doing this while the area is new pairs the two. The name is shown exactly as PlayStation publishes it, ellipsis included. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Travel to Ocean Beach", "Order a cocktail where the view is", "Enjoy it — that is the whole requirement"]
+  },
+  {
+   "id": 45, "name": "Capital Offense", "description": "Smash your way out of a vehicle showroom in classic style.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Smash your way out of a vehicle showroom in classic style, per the official description — a deliberate homage moment: get into a car inside a showroom and drive it out through the glass rather than the door. Pick a showroom vehicle you can actually drive, line up with the largest window, and go; style points are implied by the description, permission is not required. Expect a wanted level afterwards, so treat the drive-out as the start of a getaway, not the end of one. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Enter a vehicle showroom", "Get into a car inside", "Drive out through the glass and escape"]
+  },
+  {
+   "id": 46, "name": "Let’s Go Bowling", "description": "Follow-through at the Kolt & Associates' bowling alley.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 4, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "The official description places this at a named location: the Kolt & Associates' bowling alley, and asks for a 'follow-through' there. Go to that alley and play — bowl a game with proper follow-through — rather than bowling anywhere else; the location in the description is the requirement's anchor. It doubles as your bowling sample for Master of None's activity types. Do not confuse it with Ten Pin, which is a melee drive-by with a bowling name and nothing to do with the alley. The name is shown exactly as PlayStation publishes it, curly apostrophe included. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Find the Kolt & Associates' bowling alley", "Bowl there with follow-through", "Keep it separate from the Ten Pin feat"]
+  },
+  {
+   "id": 47, "name": "Personal Best", "description": "A partnership with mass appeal.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 2, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Another deliberately cryptic description: 'A partnership with mass appeal.' Neither official source explains it further, so this atlas is plain about what is known and what is not: it is a partnership moment — something done together with your partner that appeals to a crowd or an audience. The practical plan is to not skip optional partner activities and public moments as they appear in the story, and to record in your notes here where it lands when it does. The exact trigger is marked not yet pinned down by its sources rather than invented — partner trophies on this list (Hot Together, Retail Therapy) show the game does track what you do as a pair. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the interpretation is our own, from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Interpretation: our own, from the official description; exact trigger not pinned down by either source.",
+   "steps": ["Take optional partner activities as they appear", "Watch public or crowd moments with your partner", "Note the exact trigger here when it lands"]
+  },
+  {
+   "id": 48, "name": "Actions Speak Louder", "description": "Choices made (for better or worse).", "grade": "bronze",
+   "kind": "story", "kinds": ["story", "missable"], "stage": 1, "target": 500, "targetLabel": "choices made (PSN tracked)",
+   "missable": true, "watch": "Watch: choices are one-time by nature. PlayStation tracks a count of 500 choices, so volume is not the risk — the risk is assuming a choice can be revisited. Keep chapter-break saves so a choice path you regret is reloadable, and never rush a prompted decision.",
+   "guide": "Choices made (for better or worse) — and PlayStation tracks a count of 500 of them, per the tracked target. That number reframes the trophy: it is a long cumulative count gathered across story decisions and everyday prompted choices, so it fills by playing attentively, not by finding one special decision. Two habits protect it: make choices deliberately instead of skipping prompts, and keep the chapter-break saves this roadmap recommends, because choices are the one thing free roam cannot give back. This atlas flags it Watch on the Missables page for exactly that reason. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 500 target PlayStation tracks), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 500. Advice: our own, from the official description.",
+   "steps": ["Make prompted choices instead of skipping them", "Keep saves at chapter breaks", "Track the 500-count as you play"]
+  },
+  {
+   "id": 49, "name": "Bad Luck, I Guess", "description": "Second time's the charm.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities", "missable"], "stage": 4, "target": null, "targetLabel": "",
+   "missable": true, "watch": "Watch: the description's logic — succeed on a second try — implies a first try that failed. If the attempt it refers to is a one-off event, succeeding first time could pass it by; keeping saves before big one-off attempts is the cheap insurance this atlas recommends.",
+   "guide": "Second time's the charm, says the official description — the requirement, read plainly, is to succeed at something on a second attempt after failing the first. Neither source names the attempt, so this guide invents none; the transferable strategy is to treat failures in repeatable challenges as progress toward this trophy rather than instantly reloading them away, and to keep saves before one-off attempts so a first-try success can be revisited if needed. It sits on the Missables page as a Watch for that save-keeping reason alone. When it lands for you, note the event in your notes field — your record will be better than a guess. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the interpretation is our own, from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Interpretation: our own, from the official description; the specific attempt is not named by either source.",
+   "steps": ["Let repeatable challenges fail once, then succeed", "Keep saves before one-off attempts", "Note the event that triggers it in your notes"]
+  },
+  {
+   "id": 50, "name": "The Truth Is Out There", "description": "What the hell just happened?", "grade": "bronze",
+   "kind": "collectibles", "kinds": ["collectibles"], "stage": 3, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "The description — 'What the hell just happened?' — is the game winking: this is the strange-event trophy, earned by witnessing something unexplained out in Leonida. No official source names the event or its location, and this guide invents neither. What genuinely helps is coverage: the stage 3 exploration pass that visits all 52 areas, meditates at 18 spots and tours 100 WAiNK locations puts you in far corners of the state where scripted strangeness lives, so treat this as a passenger of exploration rather than a destination. If something bizarre happens, stay and watch it play out — witnessing is the verb the description supports. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the interpretation is our own, from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Interpretation: our own, from the official description; the event is not named by either source.",
+   "steps": ["Explore the whole state in stage 3", "Investigate anything strange you encounter", "Stay and witness the event fully"]
+  },
+  {
+   "id": 51, "name": "Ten Pin", "description": "Bowl 'em over with a melee drive-by.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": null, "targetLabel": "",
+   "missable": false, "watch": "",
+   "guide": "Bowl 'em over with a melee drive-by, per the official description — despite the name, this is a combat feat, not bowling: knock a person down with a melee attack delivered from a moving vehicle. Set it up somewhere open with a lone pedestrian and a slow, controlled pass: too fast and it becomes a plain run-over, too slow and it is not a drive-by. Save first, expect a wanted response, and retry freely — it is a repeatable feat with no story gate. Keep it mentally separate from Let’s Go Bowling, which really is at the alley. Sources: Exophase (official name, description and grade) and PSNProfiles (grade), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade confirmed. Advice: our own, from the official description.",
+   "steps": ["Save and find an open spot with a pedestrian", "Make a slow drive-by pass", "Land the melee hit as you pass"]
+  },
+  {
+   "id": 52, "name": "Dime on the Dollar", "description": "Earn $250,000 laundering Marked Bills through your contacts.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": 250000, "targetLabel": "dollars laundered",
+   "missable": false, "watch": "",
+   "guide": "Earn $250,000 laundering marked bills through your contacts, per the official description — a quarter-million is a campaign, not an errand. Route every marked-bill source you find into laundering as you go instead of stockpiling, and let the robberies of stage 5 (bank vaults, armored trucks, gang operations) feed the pipeline. The counter in this tracker accepts dollar amounts, so log each laundered batch and watch the real total grow; money trophies are where vague memory most often overstates progress. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the $250,000 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of $250,000. Advice: our own, from the official description.",
+   "steps": ["Feed every marked-bill source to your contacts", "Launder in batches as cash arrives", "Log each batch's dollars in the counter"]
+  },
+  {
+   "id": 53, "name": "Treat Yo Self", "description": "Spend $100,000 across all shops.", "grade": "bronze",
+   "kind": "activities", "kinds": ["activities"], "stage": 5, "target": 100000, "targetLabel": "dollars spent in shops",
+   "missable": false, "watch": "",
+   "guide": "Spend $100,000 across all shops, per the official description. 'Across all shops' means the total is cumulative everywhere, so ordinary play does most of it: buy vehicles, property extras, gear and customisation as you actually want them rather than hoarding cash, and this lands on its own by the late game. If it is short at cleanup time, big-ticket shop purchases close the gap fastest. Spend late rather than early — the early-game advice on Trust exists because money spent at chapter 1 prices buys less progress than the same money later. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the $100,000 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of $100,000. Advice: our own, from the official description.",
+   "steps": ["Buy what you want as you play", "Track total shop spending in the counter", "Close any gap with big purchases at cleanup"]
+  },
+  {
+   "id": 54, "name": "Little Boxes", "description": "Purchase all garage properties.", "grade": "bronze",
+   "kind": "collectibles", "kinds": ["collectibles"], "stage": 3, "target": 8, "targetLabel": "garage properties bought",
+   "missable": false, "watch": "",
+   "guide": "Purchase all garage properties — 8 of them, per the official description and the tracked count. This is a savings goal wearing a collectible's clothes: buy garages as your income allows during stages 3 to 5 rather than in one painful endgame purchase, and let each new garage earn its keep as storage for the vehicle-discovery work of Whip It Good. Keep the counter honest per purchase. If cash is the bottleneck, the stage 5 money loop (laundering and robberies) is the intended feeder. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 8 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 8. Advice: our own, from the official description.",
+   "steps": ["Buy each garage property as income allows", "Use them to store discovered vehicles", "Log each purchase until all 8 are owned"]
+  },
+  {
+   "id": 55, "name": "On the Spot", "description": "Register 10 vehicles to the Scooter Bros app.", "grade": "bronze",
+   "kind": "collectibles", "kinds": ["collectibles"], "stage": 3, "target": 10, "targetLabel": "vehicles registered",
+   "missable": false, "watch": "",
+   "guide": "Register 10 vehicles to the Scooter Bros app, per the official description. Only 10, and it shares its raw material with Whip It Good's 100 discoveries: whenever you discover a vehicle you like, register it on the spot — the trophy's name is the method — instead of intending to come back. Ten registrations finish early in a varied playthrough; if you reach the cleanup without it, a single tour of districts with the app open closes it in one session. Sources: Exophase (official name, description and grade) and PSNProfiles (grade and the 10 target), listed in full under Sources; the advice is our own, written from the official description.",
+   "sources": "Exophase, 'Grand Theft Auto VI' PSN trophy list — official name, description and grade. PSNProfiles, Grand Theft Auto VI trophies — grade and PSN target of 10. Advice: our own, from the official description.",
+   "steps": ["Open the Scooter Bros app for vehicles you discover", "Register each keeper immediately", "Stop at 10 — the set is small"]
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Platinum Atlas — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="css/base.css">
+</head>
+<body>
+<header id="atlas-header">
+  <div class="brand">
+    <div class="sun-disc" aria-hidden="true"></div>
+    <div>
+      <h1>Leonida Platinum Atlas</h1>
+      <p class="tagline">The offline guide &amp; tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5</p>
+    </div>
+  </div>
+  <div class="header-stats">
+    <div class="stat"><strong id="earned-count">0 of 55</strong><span>earned</span></div>
+    <div class="stat"><strong id="earned-percent">0%</strong><span>to platinum</span></div>
+    <div class="progress-track"><div id="progress-bar"></div></div>
+    <p class="list-makeup">Official list: 1 platinum · 2 gold · 6 silver · 46 bronze · 28 hidden on PlayStation until earned</p>
+  </div>
+</header>
+
+<nav id="view-tabs" aria-label="Guide sections">
+  <button type="button" class="tab is-active" data-view="tracker" id="tab-tracker">Tracker &amp; Guides</button>
+  <button type="button" class="tab" data-view="roadmap" id="tab-roadmap">Platinum Roadmap</button>
+  <button type="button" class="tab" data-view="missables" id="tab-missables">Missables Watch <span id="missable-count" class="pill"></span></button>
+  <button type="button" class="tab" data-view="planner" id="tab-planner">Next Up Planner</button>
+</nav>
+
+<main>
+  <section id="view-tracker">
+    <div class="toolbar" id="filter-toolbar">
+      <input id="search" type="search" placeholder="Search trophies…  ( / )" aria-label="Search trophies">
+      <div class="chip-row" id="kind-chips" role="group" aria-label="Filter by kind">
+        <button type="button" class="chip is-active" data-kind="all">All kinds</button>
+        <button type="button" class="chip" data-kind="story">Story</button>
+        <button type="button" class="chip" data-kind="missable">Missable watch</button>
+        <button type="button" class="chip" data-kind="collectibles">Collectibles</button>
+        <button type="button" class="chip" data-kind="activities">Activities</button>
+        <button type="button" class="chip" data-kind="online">Online</button>
+      </div>
+      <label>Grade
+        <select id="grade-filter">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label>Status
+        <select id="status-filter">
+          <option value="all">All</option>
+          <option value="remaining">Remaining</option>
+          <option value="earned">Earned</option>
+        </select>
+      </label>
+      <label class="switch"><input type="checkbox" id="spoiler-toggle"> Spoiler protection <span class="hint">hides story trophies until earned</span></label>
+    </div>
+
+    <div class="tracker-layout">
+      <div class="list-pane">
+        <p id="result-count" class="result-count"></p>
+        <ul id="trophy-list"></ul>
+        <div class="save-bar" id="save-bar">
+          <button type="button" id="export-button">Export progress</button>
+          <label class="import-label">Import progress <input type="file" id="import-input" accept="application/json"></label>
+          <button type="button" id="showcase-button">Load showcase progress</button>
+          <button type="button" id="reset-button">Reset</button>
+        </div>
+        <p class="save-note">Progress, counters and notes are saved in this browser (localStorage) and never leave the device. Export makes a file you can import back on any machine. This app works fully offline and fetches nothing.</p>
+      </div>
+      <aside id="detail-pane" aria-label="Trophy guide">
+        <p class="detail-empty">Pick a trophy to read its guide, its sources, its steps and its counter.</p>
+      </aside>
+    </div>
+  </section>
+
+  <section id="view-roadmap" hidden>
+    <div class="section-head">
+      <h2>Roadmap to the Platinum</h2>
+      <p>Built from the official descriptions alone: which chapters and missions, which collectibles and counts, in what order. Six stages, no step invented — where a description does not pin something down, the stage says so.</p>
+    </div>
+    <div id="roadmap-stages"></div>
+  </section>
+
+  <section id="view-missables" hidden>
+    <div class="section-head">
+      <h2>Missables Watch</h2>
+      <p>Nothing on the official list is labelled missable by PlayStation. These are the trophies whose official descriptions describe a one-time shape — a named character's final mission, a choice, a single place-and-moment departure — flagged honestly as <em>watch</em> items, with the reason and the safe order for each. Everything not listed here can be cleaned up in free roam at your own pace.</p>
+    </div>
+    <div id="missable-cards"></div>
+  </section>
+
+  <section id="view-planner" hidden>
+    <div class="section-head">
+      <h2>Next Up</h2>
+      <p>The planner reads your saved progress and queues the most valuable next trophies: watch items first, then the earliest unfinished roadmap stage, then counters already under way.</p>
+    </div>
+    <ol id="next-up-list"></ol>
+    <h3 class="planner-subhead">Counters under way</h3>
+    <div id="counter-summary"></div>
+  </section>
+</main>
+
+<footer id="atlas-footer">
+  <p>Sources for the official list: Exophase, “Grand Theft Auto VI” PSN trophy list, and PSNProfiles, Grand Theft Auto VI trophy page — the two agree on every name, description and grade. Every guide in this atlas is original text written for it, cites its sources beside the trophy, and says plainly where a fact is not yet pinned down. Original fan-made tool; not affiliated with the game's publisher, and it uses no official artwork or logos.</p>
+</footer>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
